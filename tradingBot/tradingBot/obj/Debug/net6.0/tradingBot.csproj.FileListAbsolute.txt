@@ -1,0 +1,15 @@
+C:\Users\torhol\source\repos\tradingBot\tradingBot\bin\Debug\net6.0\tradingBot.exe
+C:\Users\torhol\source\repos\tradingBot\tradingBot\bin\Debug\net6.0\tradingBot.deps.json
+C:\Users\torhol\source\repos\tradingBot\tradingBot\bin\Debug\net6.0\tradingBot.runtimeconfig.json
+C:\Users\torhol\source\repos\tradingBot\tradingBot\bin\Debug\net6.0\tradingBot.dll
+C:\Users\torhol\source\repos\tradingBot\tradingBot\bin\Debug\net6.0\tradingBot.pdb
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.csproj.AssemblyReference.cache
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.AssemblyInfoInputs.cache
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.AssemblyInfo.cs
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.csproj.CoreCompileInputs.cache
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.dll
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\refint\tradingBot.dll
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.pdb
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\tradingBot.genruntimeconfig.cache
+C:\Users\torhol\source\repos\tradingBot\tradingBot\obj\Debug\net6.0\ref\tradingBot.dll
